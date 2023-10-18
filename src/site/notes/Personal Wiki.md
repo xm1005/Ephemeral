@@ -2,13 +2,20 @@
 {"dg-publish":true,"permalink":"/Personal Wiki/"}
 ---
 
+在线电子书：
+- [Principles of Social Psychology](https://opentextbc.ca/socialpsychology/)
+
 ### 历史
 - [History of the social sciences](https://en.wikipedia.org/wiki/History_of_the_social_sciences) | [社会科学史](https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E5%8F%B2)
 	- [History of sociology](https://en.wikipedia.org/wiki/History_of_sociology) | [社会学史](https://zh.wikipedia.org/wiki/%E7%A4%BE%E6%9C%83%E5%AD%B8%E5%8F%B2)
 
 ### 学科
 -  [Social psychology ](https://en.wikipedia.org/wiki/Social_psychology#) |  [社会心理学 ](https://zh.wikipedia.org/zh-hans/%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6)
-  
+	- [Social Psychology Links by Subtopic](https://www.socialpsychology.org/social.htm) | [Category:Social psychology](https://en.wikipedia.org/wiki/Category:Social_psychology) | [分类：社会心理学](https://zh.wikipedia.org/wiki/Category:%E7%A4%BE%E6%9C%83%E5%BF%83%E7%90%86%E5%AD%B8)
+	- [Historic Figures in Social Psychology](https://www.socialpsychology.org/social-figures.htm)（历史人物）
+	- [Category:Social psychologists ](https://en.wikipedia.org/wiki/Category:Social_psychologists) |  [List of social psychologists](https://en.wikipedia.org/wiki/List_of_social_psychologists)（社会心理学家）
+
+
 ### 心理
 - [Category:Psychological effects ](https://en.wikipedia.org/wiki/Category:Psychological_effects)
 	- [List of psychological effects](https://en.wikipedia.org/wiki/List_of_psychological_effects)
