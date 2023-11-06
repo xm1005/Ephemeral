@@ -18,6 +18,8 @@
 - [Wikipedia:Contents/Outlines ](https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines#History_and_events)
 - [Category:Wikipedia outlines](https://en.wikipedia.org/w/index.php?title=Category:Wikipedia_outlines&from=A)
 - [Category:Neologisms](https://en.wikipedia.org/wiki/Category:Neologisms) | [分类:新词](https://zh.wikipedia.org/wiki/Category:%E6%96%B0%E8%A9%9E)
+- [Category:2020s fads and trends](https://en.wikipedia.org/wiki/Category:2020s_fads_and_trends) | [分类：2020 年代潮流与趋势](https://zh.wikipedia.org/wiki/Category:2020%E5%B9%B4%E4%BB%A3%E6%BD%AE%E6%B5%81%E8%88%87%E8%B6%A8%E5%8B%A2)
+- [分类：2023 年面世的网络迷因](https://zh.wikipedia.org/wiki/Category:2023%E5%B9%B4%E9%9D%A2%E4%B8%96%E7%9A%84%E7%B6%B2%E8%B7%AF%E8%BF%B7%E5%9B%A0)
 
 ### 人
 - [Category:Human development](https://en.wikipedia.org/wiki/Category:Human_development) | [分类:人类发展成长](https://zh.wikipedia.org/wiki/Category:%E4%BA%BA%E9%A1%9E%E7%99%BC%E5%B1%95%E6%88%90%E9%95%B7)
@@ -285,7 +287,8 @@
 - [Criticism of technology ](https://en.wikipedia.org/wiki/Criticism_of_technology)
 - [Digerati ](https://en.wikipedia.org/wiki/Digerati) （数字人文）
 - [Progress trap ](https://en.wikipedia.org/wiki/Progress_trap)
-- [Accelerating change ](https://en.wikipedia.org/wiki/Accelerating_change) | [Accelerationism ](https://en.wikipedia.org/wiki/Accelerationism) | [加速主义 ](https://zh.wikipedia.org/wiki/%E5%8A%A0%E9%80%9F%E4%B8%BB%E4%B9%89)
+- [Accelerating change ](https://en.wikipedia.org/wiki/Accelerating_change) | [Accelerationism ](https://en.wikipedia.org/wiki/Accelerationism) | [加速主义 ](https://zh.wikipedia.org/wiki/%E5%8A%A0%E9%80%9F%E4%B8%BB%E4%B9%89)（加速社会）
+	- [加速度社会：反思与批判](https://www.thepaper.cn/newsDetail_forward_5114892)
 - [Techno-progressivism ](https://en.wikipedia.org/wiki/Techno-progressivism)
 - [Technological determinism ](https://en.wikipedia.org/wiki/Technological_determinism) | [技术决定论 ](https://zh.wikipedia.org/wiki/%E6%8A%80%E6%9C%AF%E5%86%B3%E5%AE%9A%E8%AE%BA)
 
@@ -486,6 +489,7 @@
 	- [Category:Deconstruction ](https://en.wikipedia.org/wiki/Category:Deconstruction) | [分类：解构主义 ](https://zh.wikipedia.org/wiki/Category:%E8%A7%A3%E6%A7%8B%E4%B8%BB%E7%BE%A9)
 - [Individualism ](https://en.wikipedia.org/wiki/Individualism) | [个人主义 ](https://zh.wikipedia.org/wiki/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E4%B9%89)
 	- [Category:Individualism](https://en.wikipedia.org/wiki/Category:Individualism) | [分类：个人主义 ](https://zh.wikipedia.org/wiki/Category:%E5%80%8B%E4%BA%BA%E4%B8%BB%E7%BE%A9)
+- [Populism](https://en.wikipedia.org/wiki/Populism) | [民粹主义](https://zh.wikipedia.org/wiki/%E6%B0%91%E7%B2%B9%E4%B8%BB%E7%BE%A9)
 - [Consumerism ](https://en.wikipedia.org/wiki/Consumerism) | [消费主义](https://zh.wikipedia.org/wiki/%E6%B6%88%E8%B2%BB%E4%B8%BB%E7%BE%A9)
 	- [Category:Consumerism](https://en.wikipedia.org/wiki/Category:Consumerism) | [分类：消费主义 ](https://zh.wikipedia.org/wiki/Category:%E6%B6%88%E8%B2%BB%E4%B8%BB%E7%BE%A9)
 - [Anti-consumerism ](https://en.wikipedia.org/wiki/Anti-consumerism) | [反消费主义](https://zh.wikipedia.org/wiki/%E5%8F%8D%E6%B6%88%E8%B2%BB%E4%B8%BB%E7%BE%A9)
@@ -718,6 +722,13 @@
 - [Labeling theory ](https://en.wikipedia.org/wiki/Labeling_theory) | [标签理论](https://zh.wikipedia.org/wiki/%E6%A8%99%E7%B1%A4%E7%90%86%E8%AB%96)
 	- [Category:Labeling theory ](https://en.wikipedia.org/wiki/Category:Labeling_theory)
 
+- [Discourse analysis ](https://en.wikipedia.org/wiki/Discourse_analysis) | [论述分析/话语分析](https://zh.wikipedia.org/wiki/%E8%AB%96%E8%BF%B0%E5%88%86%E6%9E%90)
+	- [Category:Discourse analysis ](https://en.wikipedia.org/wiki/Category:Discourse_analysis) | [分类：话语分析](https://zh.wikipedia.org/wiki/Category:%E7%AF%87%E7%AB%A0%E5%88%86%E6%9E%90)
+- [Norman Fairclough](https://en.wikipedia.org/wiki/Norman_Fairclough) | [诺曼·费尔克拉夫](https://zh.wikipedia.org/wiki/%E8%AF%BA%E6%9B%BC%C2%B7%E8%B4%B9%E5%B0%94%E5%85%8B%E6%8B%89%E5%A4%AB)
+	- [Critical discourse analysis ](https://en.wikipedia.org/wiki/Critical_discourse_analysis) | [批判论述/话语分析](https://zh.wikipedia.org/wiki/%E6%89%B9%E5%88%A4%E8%AB%96%E8%BF%B0%E5%88%86%E6%9E%90)
+		- 费尔克拉夫把整个的话语分成三个层次，一个是文本的层次，去研究孤立的内容，它的词汇、语法、语义、语篇组织是如何叙事等等，这是第一个层次。第二个层次是话语实践，生产者他如何去创造文本，解读者如何去解读和消费文本，它涉及到话语的意义问题。第三个就是社会实践，讲在文本中间是否再生产或者重建了已有的话语秩序。受到或者是给既有的意识形态和权力，有什么样的影响？这就涉及到一个更深的更复杂的社会层面的意识形态的问题。
+
+
 #### 文化人类学/社会人类学
 - [Anthropology ](https://en.wikipedia.org/wiki/Anthropology) | [人类学 ](https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%B1%BB%E5%AD%A6)
 - [Cultural anthropology ](https://en.wikipedia.org/wiki/Cultural_anthropology#References) | [文化人类学](https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E4%BA%BA%E7%B1%BB%E5%AD%A6#%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5)
@@ -736,21 +747,6 @@
 - [Cultural conflict ](https://en.wikipedia.org/wiki/Cultural_conflict) | [文化冲突](https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E8%A1%9D%E7%AA%81)
 - [Cultural divide](https://en.wikipedia.org/wiki/Cultural_divide)（文化鸿沟）
 
-#### 传播政治经济学
-- [Political economy of communications](https://en.wikipedia.org/wiki/Political_economy_of_communications) | [传播政治经济学](https://zh.wikipedia.org/wiki/%E4%BC%A0%E6%92%AD%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6)
-
-- [Media imperialism](https://en.wikipedia.org/wiki/Media_imperialism) | [媒体帝国主义](https://zh.wikipedia.org/wiki/%E5%AA%92%E9%AB%94%E5%B8%9D%E5%9C%8B%E4%B8%BB%E7%BE%A9)
-- [Surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism) | [监视资本主义](https://zh.wikipedia.org/wiki/%E7%9B%91%E8%A7%86%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89)
-
-#### 文化研究
--  [Cultural studies ](https://en.wikipedia.org/wiki/Cultural_studies) | [文化研究 ](https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6)
-	- [Category:Cultural studies](https://en.wikipedia.org/wiki/Category:Cultural_studies) | [分类：文化研究 ](https://zh.wikipedia.org/wiki/Category:%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6)
-
-- [Cultural hegemony](https://en.wikipedia.org/wiki/Cultural_hegemony) | [文化霸权 ](https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E9%9C%B8%E6%AC%8A)
-	- [Category:Cultural hegemony](https://en.wikipedia.org/wiki/Category:Cultural_hegemony)
-- [Cultural imperialism ](https://en.wikipedia.org/wiki/Cultural_imperialism) | [文化帝国主义 ](https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E5%B8%9D%E5%9C%8B%E4%B8%BB%E7%BE%A9)
-- [Culture industry ](https://en.wikipedia.org/wiki/Culture_industry) | [文化工业 ](https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E5%B7%A5%E6%A5%AD)
-- 
 
 ### 心理
 - [Category:Psychological effects ](https://en.wikipedia.org/wiki/Category:Psychological_effects)
@@ -1223,7 +1219,7 @@
 		- [Category:Online content distribution ](https://en.wikipedia.org/wiki/Category:Online_content_distribution) | [分类：在线内容分发](https://zh.wikipedia.org/wiki/Category:%E5%9C%A8%E7%BA%BF%E5%86%85%E5%AE%B9%E5%88%86%E5%8F%91)
 	- [Electronic publishing](https://en.wikipedia.org/wiki/Electronic_publishing#) | [电子出版 ](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E5%87%BA%E7%89%88)
 		- [Category:Electronic publishing](https://en.wikipedia.org/wiki/Category:Electronic_publishing) | [分类:电子出版 ](https://zh.wikipedia.org/wiki/Category:%E9%9B%BB%E5%AD%90%E5%87%BA%E7%89%88)
-
+- [Connectivity (media)](https://en.wikipedia.org/wiki/Connectivity_(media))
 
 - [Persuasion ](https://en.wikipedia.org/wiki/Persuasion) | [说服 ](https://zh.wikipedia.org/wiki/%E8%AA%AA%E6%9C%8D)
 	- [Category:Persuasion ](https://en.wikipedia.org/wiki/Category:Persuasion) | [分类：说服](https://zh.wikipedia.org/wiki/Category:%E8%AF%B4%E6%9C%8D)
@@ -1247,7 +1243,9 @@
 	- [Outline of public relations ](https://en.wikipedia.org/wiki/Outline_of_public_relations)
 	- [Media relations](https://en.wikipedia.org/wiki/Media_relations) | [公共关系](https://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%B1%E5%85%B3%E7%B3%BB#)
 	- [Category:Public relations ](https://en.wikipedia.org/wiki/Category:Public_relations) | [分类：公关 ](https://zh.wikipedia.org/wiki/Category:%E5%85%AC%E9%97%9C)
-- [Strategic communication](https://en.wikipedia.org/wiki/Strategic_communication#Definition_of_strategic_communication)
+	- [Crisis communication ](https://en.wikipedia.org/wiki/Crisis_communication) | [危机公关/危机传播](https://zh.wikipedia.org/wiki/%E5%8D%B1%E6%A9%9F%E5%85%AC%E9%97%9C)
+		- [胡百精](https://www.zhihu.com/question/30562888)
+- [Strategic communication](https://en.wikipedia.org/wiki/Strategic_communication#Definition_of_strategic_communication)（战略传播）
 - [Two-step flow of communication ](https://en.wikipedia.org/wiki/Two-step_flow_of_communication) | [两级传播](https://zh.wikipedia.org/wiki/%E5%85%A9%E7%B4%9A%E5%82%B3%E6%92%AD)
 
 - [Category:Mass media monitoring](https://en.wikipedia.org/wiki/Category:Mass_media_monitoring)
@@ -1264,7 +1262,7 @@
 	- [Digital literacy](https://en.wikipedia.org/wiki/Digital_literacy) | [数字素养 ](https://zh.wikipedia.org/wiki/%E6%95%B8%E4%BD%8D%E7%B4%A0%E9%A4%8A)
 	- [Information literacy ](https://en.wikipedia.org/wiki/Information_literacy) | [信息素养 ](https://zh.wikipedia.org/wiki/%E8%B3%87%E8%A8%8A%E7%B4%A0%E9%A4%8A)
 
-
+[Audience analysis ](https://en.wikipedia.org/wiki/Audience_analysis)
 
 - [Category:Mass media and entertainment controversies](https://en.wikipedia.org/wiki/Category:Mass_media_and_entertainment_controversies) | [分类:媒体争议 ](https://zh.wikipedia.org/wiki/Category:%E5%AA%92%E9%AB%94%E7%88%AD%E8%AD%B0)
 - [Influence of mass media](https://en.wikipedia.org/wiki/Influence_of_mass_media#)
@@ -1313,7 +1311,11 @@
 - [Uses and gratifications theory](https://en.wikipedia.org/wiki/Uses_and_gratifications_theory) | [使用与满足研究](https://zh.wikipedia.org/wiki/%E4%BD%BF%E7%94%A8%E8%88%87%E6%BB%BF%E8%B6%B3%E7%A0%94%E7%A9%B6)
 - [Media system dependency theory ](https://en.wikipedia.org/wiki/Media_system_dependency_theory) | [媒介依赖理论](https://zh.wikipedia.org/wiki/%E5%AA%92%E4%BB%8B%E4%BE%9D%E8%B3%B4%E7%90%86%E8%AB%96)
 - [Agenda-setting theory](https://en.wikipedia.org/wiki/Agenda-setting_theory) | [议程设置理论](https://zh.wikipedia.org/wiki/%E8%AD%B0%E9%A1%8C%E8%A8%AD%E5%AE%9A)
+	- 议程设置能力（影响力）
 - [Cultivation theory ](https://en.wikipedia.org/wiki/Cultivation_theory) | [涵化理论 ](https://zh.wikipedia.org/wiki/%E6%B6%B5%E5%8C%96%E7%90%86%E8%AB%96)
+- [Priming (psychology) ](https://en.wikipedia.org/wiki/Priming_(psychology))| [促发 (心理学) ](https://zh.wikipedia.org/wiki/%E4%BF%83%E7%99%BC_(%E5%BF%83%E7%90%86%E5%AD%B8))（启动效应/框架效应）
+	- 意思就是说，我们在接受一个新的信息的时候，我们总会去援引和思考老的信息。我们大脑在做决策的时候可能会找一些近路，我们在看到一个新的信息的时候，我们总要去把它放到一个背景下去理解。（背景就来自于我最近刚接受的一些信息，与背景相联系）
+	- [Priming - The Decision Lab](https://thedecisionlab.com/biases/priming)
 
 
 #### 学派和学者
@@ -1322,29 +1324,95 @@
 	- [History of media studies ](https://en.wikipedia.org/wiki/History_of_media_studies)
 	- [Medium theory ](https://en.wikipedia.org/wiki/Medium_theory)
 	- [Media ecology](https://en.wikipedia.org/wiki/Media_ecology) | [媒介环境学/媒介生态学](https://zh.wikipedia.org/wiki/%E5%AA%92%E4%BB%8B%E7%8E%AF%E5%A2%83%E5%AD%A6)
-	- [Mediatization (media) ](https://en.wikipedia.org/wiki/Mediatization_(media))
+	- [Mediatization (media) ](https://en.wikipedia.org/wiki/Mediatization_(media))（媒介化）→媒介化生存
 	- [Media culture](https://en.wikipedia.org/wiki/Media_culture) | [媒体文化](https://zh.wikipedia.org/wiki/%E5%AA%92%E4%BD%93%E6%96%87%E5%8C%96)
 - [Internet studies ](https://en.wikipedia.org/wiki/Internet_studies)
 - [Symbolic interactionism](https://en.wikipedia.org/wiki/Symbolic_interactionism) | [符号互动论 ](https://zh.wikipedia.org/wiki/%E7%AC%A6%E8%99%9F%E4%BA%92%E5%8B%95%E8%AB%96)
 
-- [Toronto School of communication theory ](https://en.wikipedia.org/wiki/Toronto_School_of_communication_theory)
+- [Toronto School of communication theory ](https://en.wikipedia.org/wiki/Toronto_School_of_communication_theory)（多伦多学派）
+	- [The Toronto School Initiative ](https://thetorontoschool.ca/)
+	- [Harold Innis](https://en.wikipedia.org/wiki/Harold_Innis) | [哈洛德・英尼斯 ](https://zh.wikipedia.org/wiki/%E5%93%88%E6%B4%9B%E5%BE%B7%C2%B7%E8%8B%B1%E5%B0%BC%E6%96%AF)
+		- [Harold Innis's communications theories ](https://en.wikipedia.org/wiki/Harold_Innis%27s_communications_theories)
+	- [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan) | [马歇尔・麦克卢汉 ](https://zh.wikipedia.org/wiki/%E9%A6%AC%E7%B4%A0%C2%B7%E9%BA%A5%E5%85%8B%E9%AD%AF%E6%BC%A2)
+		- [Category:Marshall McLuhan ](https://en.wikipedia.org/wiki/Category:Marshall_McLuhan)
+		- [The medium is the message ](https://en.wikipedia.org/wiki/The_medium_is_the_message) | [媒介即信息 ](https://zh.wikipedia.org/wiki/%E5%AA%92%E4%BB%8B%E5%8D%B3%E8%A8%8A%E6%81%AF)
 - [Chicago school (sociology) ](https://en.wikipedia.org/wiki/Chicago_school_(sociology)#External_links)| [芝加哥社会学派 ](https://zh.wikipedia.org/wiki/%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%A4%BE%E6%9C%83%E5%AD%B8%E6%B4%BE)
-- [Frankfurt School ](https://en.wikipedia.org/wiki/Frankfurt_School) | [法兰克福学派](https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E5%85%8B%E7%A6%8F%E5%AD%B8%E6%B4%BE)
+- [Frankfurt School ](https://en.wikipedia.org/wiki/Frankfurt_School) | [法兰克福学派](https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E5%85%8B%E7%A6%8F%E5%AD%B8%E6%B4%BE)（批判理论）
+	- [﹝英﹞巴托莫尔《法兰克福学派》（1984） (marxists.org)](https://www.marxists.org/chinese/reference-books/frankfurt-school-1984/index.htm)
 	- [Category:Frankfurt School ](https://en.wikipedia.org/wiki/Category:Frankfurt_School) | [分类:法兰克福学派 ](https://zh.wikipedia.org/wiki/Category:%E6%B3%95%E8%98%AD%E5%85%8B%E7%A6%8F%E5%AD%B8%E6%B4%BE)
 	- [Technocriticism ](https://en.wikipedia.org/wiki/Technocriticism)
+	- [Herbert Marcuse](https://en.wikipedia.org/wiki/Herbert_Marcuse) | [赫伯特・马尔库塞 ](https://zh.wikipedia.org/wiki/%E8%B5%AB%E4%BC%AF%E7%89%B9%C2%B7%E9%A9%AC%E5%B0%94%E5%BA%93%E5%A1%9E)
+		- [One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society  ](https://en.wikipedia.org/wiki/One-Dimensional_Man) | [单向度的人](https://zh.wikipedia.org/wiki/%E5%96%AE%E5%90%91%E5%BA%A6%E7%9A%84%E4%BA%BA)（1964）
+	-  [Jürgen Habermas ](https://en.wikipedia.org/wiki/J%C3%BCrgen_Habermas) | [于尔根・哈贝马斯 ](https://zh.wikipedia.org/wiki/%E4%BA%8E%E5%B0%94%E6%A0%B9%C2%B7%E5%93%88%E8%B4%9D%E9%A9%AC%E6%96%AF)
+		- [Category:Jürgen Habermas ](https://en.wikipedia.org/wiki/Category:J%C3%BCrgen_Habermas)
+		- [Communicative rationality ](https://en.wikipedia.org/wiki/Communicative_rationality)
+	- [Theodor W. Adorno ](https://en.wikipedia.org/wiki/Theodor_W._Adorno) | [狄奥多・阿多诺 ](https://zh.wikipedia.org/wiki/%E7%8B%84%E5%A5%A7%E5%A4%9A%C2%B7%E9%98%BF%E5%A4%9A%E8%AB%BE)（1903~1969）
+	- [Max Horkheimer](https://en.wikipedia.org/wiki/Max_Horkheimer) | [麦克斯・霍克海默 ](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%85%8B%E6%96%AF%C2%B7%E9%9C%8D%E5%85%8B%E6%B5%B7%E9%BB%98)（1895~1973）
+- 帕洛阿尔托学派
 
 - [Category:Media critics](https://en.wikipedia.org/wiki/Category:Media_critics)
 - [Category:Mass media theorists ](https://en.wikipedia.org/wiki/Category:Mass_media_theorists)
 - [Paul Lazarsfeld ](https://en.wikipedia.org/wiki/Paul_Lazarsfeld) | [保罗·F·拉扎斯菲尔德 ](https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7F%C2%B7%E6%8B%89%E6%89%8E%E6%96%AF%E8%8F%B2%E5%B0%94%E5%BE%B7)
-- [Harold Innis](https://en.wikipedia.org/wiki/Harold_Innis) | [哈洛德・英尼斯 ](https://zh.wikipedia.org/wiki/%E5%93%88%E6%B4%9B%E5%BE%B7%C2%B7%E8%8B%B1%E5%B0%BC%E6%96%AF)
-	- [Harold Innis's communications theories ](https://en.wikipedia.org/wiki/Harold_Innis%27s_communications_theories)
-- [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan) | [马歇尔・麦克卢汉 ](https://zh.wikipedia.org/wiki/%E9%A6%AC%E7%B4%A0%C2%B7%E9%BA%A5%E5%85%8B%E9%AD%AF%E6%BC%A2)
-	- [Category:Marshall McLuhan ](https://en.wikipedia.org/wiki/Category:Marshall_McLuhan)
-	- [The medium is the message ](https://en.wikipedia.org/wiki/The_medium_is_the_message) | [媒介即信息 ](https://zh.wikipedia.org/wiki/%E5%AA%92%E4%BB%8B%E5%8D%B3%E8%A8%8A%E6%81%AF)
 - [Jean Baudrillard](https://en.wikipedia.org/wiki/Jean_Baudrillard) | [让・鲍德里亚 ](https://zh.wikipedia.org/wiki/%E5%B0%9A%C2%B7%E5%B8%83%E5%B8%8C%E4%BA%9E)
 	- [Category:Jean Baudrillard](https://en.wikipedia.org/wiki/Category:Jean_Baudrillard)
-- [Jürgen Habermas ](https://en.wikipedia.org/wiki/J%C3%BCrgen_Habermas) | [于尔根・哈贝马斯 ](https://zh.wikipedia.org/wiki/%E4%BA%8E%E5%B0%94%E6%A0%B9%C2%B7%E5%93%88%E8%B4%9D%E9%A9%AC%E6%96%AF)
-	- [Category:Jürgen Habermas ](https://en.wikipedia.org/wiki/Category:J%C3%BCrgen_Habermas)
-	- [Communicative rationality ](https://en.wikipedia.org/wiki/Communicative_rationality)
 - [Martin Heidegger](https://en.wikipedia.org/wiki/Martin_Heidegger) | [马丁・海德格尔](https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%B8%81%C2%B7%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94)
 - [James W. Carey ](https://en.wikipedia.org/wiki/James_W._Carey#)
+- [Lev Manovich](https://en.wikipedia.org/wiki/Lev_Manovich) | [列夫・马诺维奇](https://zh.wikipedia.org/wiki/%E5%88%97%E5%A4%AB%C2%B7%E6%9B%BC%E8%AB%BE%E7%B6%AD%E5%A5%87)
+- [Henry Jenkins](https://en.wikipedia.org/wiki/Henry_Jenkins)（亨利·詹金斯-1958）：媒体和流行文化（媒体研究和文化研究）‖21 世纪的麦克卢汉
+	- [Henry Jenkins | USC Annenberg School for Communication and Journalism](https://annenberg.usc.edu/faculty/henry-jenkins)
+	- [Henry Jenkins— Pop Junctions ](http://henryjenkins.org/aboutmehtml)
+	- 作品
+		- Textual Poachers: Television Fans and Participatory Culture（文化偷猎者、参与式文化）1992
+			- [Textual Poachers ](https://en.wikipedia.org/wiki/Textual_Poachers)、 [Participatory culture](https://en.wikipedia.org/wiki/Participatory_culture)
+			- [Henry Jenkins on Participatory Culture: Big Thinkers - YouTube](https://www.youtube.com/watch?v=1gPm-c1wRsQ)
+		- Convergence Culture: Where Old and New Media Collide（融合文化）2006
+			- [Transmedia storytelling ](https://en.wikipedia.org/wiki/Transmedia_storytelling)（跨媒介叙事）
+		- Spreadable Media: Creating Meaning and Value in a Networked Culture（可延展媒介）2013
+			- [Spreadability](https://en.wikipedia.org/wiki/Spreadability)
+- [José van Dijck ](https://en.wikipedia.org/wiki/Jos%C3%A9_van_Dijck)（范·迪克）
+	- [Prof. dr. José van Dijck - Utrecht University ](https://www.uu.nl/staff/JFTMvanDijck)
+	- Platform Society（平台社会-18）
+		- [Professor José van Dijck on today's 'platform society'](https://www.youtube.com/watch?v=g2rVuDQeAeg)
+- [Neil Postman](https://en.wikipedia.org/wiki/Neil_Postman) | [尼尔・波兹曼](https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%B0%94%C2%B7%E6%B3%A2%E5%85%B9%E6%9B%BC)（1931~2003）
+	- [All The Things You Never Even Knew You Wanted To Know About Neil Postman](http://neilpostman.org/) | [NYU Professor Neil Postman, 72, Social Critic and Educator](https://www.nyu.edu/about/news-publications/news/2003/september/nyu_professor_neil_postman_72.html)
+	- 作品
+		- [童年的消逝](https://zh.wikipedia.org/wiki/%E7%AB%A5%E5%B9%B4%E7%9A%84%E6%B6%88%E9%80%9D)（1982）
+		- [Amusing Ourselves to Death: Public Discourse in the Age of Show Business.](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death) | [娱乐至死](https://zh.wikipedia.org/wiki/%E5%A8%B1%E4%B9%90%E8%87%B3%E6%AD%BB)（1985）
+			- [被滥用的 “娱乐至死”，我们可能有些误解](https://www.huxiu.com/article/512657.html)
+		- [Technopoly: The Surrender of Culture to Technology](https://en.wikipedia.org/wiki/Technopoly)（1992-技术垄断）
+			- [Technopoly](https://www.math-cs.gordon.edu/courses/cs403/currentReviews/erickson.html)
+- [Shanto Iyengar](https://en.wikipedia.org/wiki/Shanto_Iyengar)（ 艾英戈）
+
+- [Byung-Chul Han ](https://en.wikipedia.org/wiki/Byung-Chul_Han) | [韩炳哲](https://zh.wikipedia.org/wiki/%E9%9F%93%E7%82%B3%E5%93%B2)
+	- [他是学者，不是网红金句制造机](https://www.huxiu.com/article/813458.html)
+	- 功绩社会
+		- [蓝江 | 功绩社会下的倦怠：内卷和焦虑现象的社会根源](https://ptext.nju.edu.cn/13/da/c13164a594906/page.htm)
+
+#### 传播政治经济学
+- [Political economy of communications](https://en.wikipedia.org/wiki/Political_economy_of_communications) | [传播政治经济学](https://zh.wikipedia.org/wiki/%E4%BC%A0%E6%92%AD%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6)
+
+- [Media imperialism](https://en.wikipedia.org/wiki/Media_imperialism) | [媒体帝国主义](https://zh.wikipedia.org/wiki/%E5%AA%92%E9%AB%94%E5%B8%9D%E5%9C%8B%E4%B8%BB%E7%BE%A9)
+- [Surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism) | [监视资本主义](https://zh.wikipedia.org/wiki/%E7%9B%91%E8%A7%86%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89)
+
+#### 文化研究
+-  [Cultural studies ](https://en.wikipedia.org/wiki/Cultural_studies) | [文化研究 ](https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6)
+	- [Category:Cultural studies](https://en.wikipedia.org/wiki/Category:Cultural_studies) | [分类：文化研究 ](https://zh.wikipedia.org/wiki/Category:%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6)
+
+- [Antonio Gramsci ](https://en.wikipedia.org/wiki/Antonio_Gramsci#) | [安东尼奥・葛兰西 ](https://zh.wikipedia.org/wiki/%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E8%91%9B%E5%85%B0%E8%A5%BF)
+	- [Cultural hegemony](https://en.wikipedia.org/wiki/Cultural_hegemony) | [文化霸权 ](https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E9%9C%B8%E6%AC%8A)
+		- [Category:Cultural hegemony](https://en.wikipedia.org/wiki/Category:Cultural_hegemony)
+- [Cultural imperialism ](https://en.wikipedia.org/wiki/Cultural_imperialism) | [文化帝国主义 ](https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E5%B8%9D%E5%9C%8B%E4%B8%BB%E7%BE%A9)
+- [Culture industry ](https://en.wikipedia.org/wiki/Culture_industry) | [文化工业 ](https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E5%B7%A5%E6%A5%AD)
+
+- [Raymond Williams](https://en.wikipedia.org/wiki/Raymond_Williams) | [雷蒙德・威廉斯](https://zh.wikipedia.org/zh-hans/%E9%9B%B7%E8%92%99%E5%BE%B7%C2%B7%E5%A8%81%E5%BB%89%E6%96%AF)
+	- [Mobile privatization ](https://en.wikipedia.org/wiki/Mobile_privatization)（流动的藏私）
+
+- [Centre for Contemporary Cultural Studies](https://en.wikipedia.org/wiki/Centre_for_Contemporary_Cultural_Studies) | [当代文化研究中心 ](https://zh.wikipedia.org/wiki/%E5%BD%93%E4%BB%A3%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83)（伯明翰学派）
+	- [Stuart Hall (cultural theorist) ](https://en.wikipedia.org/wiki/Stuart_Hall_(cultural_theorist))| [斯图亚特・霍尔 ](https://zh.wikipedia.org/wiki/%E6%96%AF%E5%9C%96%E4%BA%9E%E7%89%B9%C2%B7%E9%9C%8D%E7%88%BE)（1932~2014）
+		- [Stuart Hall - University of Birmingham](https://www.birmingham.ac.uk/research/perspective/stuart-hall-hilton-and-connell.aspx) | [Stuart Hall (1932-2014) ](https://www.blackpast.org/global-african-history/hall-stuart-1932-2014/)
+		- [Encoding/decoding model of communication](https://en.wikipedia.org/wiki/Encoding/decoding_model_of_communication)（编码解码理论）
+			- [Reception theory](https://en.wikipedia.org/wiki/Reception_theory) | [接受理论 ](https://zh.wikipedia.org/wiki/%E6%8E%A5%E5%8F%97%E7%90%86%E8%AB%96)
+		- [Articulation (sociology) ](https://en.wikipedia.org/wiki/Articulation_(sociology))（接合理论）
+
+- [Aberrant decoding](https://en.wikipedia.org/wiki/Aberrant_decoding)
+
