@@ -193,7 +193,7 @@
 	- [Category:Telecommunications](https://en.wikipedia.org/wiki/Category:Telecommunications) | [分类：电信](https://zh.wikipedia.org/wiki/Category:%E7%94%B5%E4%BF%A1)
 	- [Outline of telecommunication](https://en.wikipedia.org/wiki/Outline_of_telecommunication)
 	- [Category:Communication by type ](https://en.wikipedia.org/wiki/Category:Communication_by_type) | [分类：各类通信 ](https://zh.wikipedia.org/wiki/Category:%E5%90%84%E9%A1%9E%E9%80%9A%E4%BF%A1)
-	- [History of telecommunication ](https://en.wikipedia.org/wiki/History_of_telecommunication)
+	- [History of telecommunication ](https://en.wikipedia.org/wiki/History_of_telecommunication)（电信史）
 - [Information and communications technology](https://en.wikipedia.org/wiki/Information_and_communications_technology#External_links) | [信息和通信技术 ](https://zh.wikipedia.org/wiki/%E4%BF%A1%E6%81%AF%E5%8F%8A%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF)
 	- [Category:Information and communications technology ](https://en.wikipedia.org/wiki/Category:Information_and_communications_technology) | [分类：通信技术](https://zh.wikipedia.org/wiki/Category:%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF)
 	- [Telecommunications in China](https://en.wikipedia.org/wiki/Telecommunications_in_China) | [中华人民共和国通信 ](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E9%80%9A%E4%BF%A1)
@@ -497,9 +497,6 @@
 	- [Category:Anti-consumerists ](https://en.wikipedia.org/wiki/Category:Anti-consumerists) | [分类:反消费主义者](https://zh.wikipedia.org/wiki/Category:%E5%8F%8D%E6%B6%88%E8%B4%B9%E4%B8%BB%E4%B9%89%E8%80%85)
 
 ### 历史
-网站：
-- [Internet History Sourcebooks Project (fordham.edu)](https://sourcebooks.fordham.edu/index.asp)
-	-  [Internet History Sourcebooks: Modern History ](https://sourcebooks.fordham.edu/mod/modsbook.asp)
 
 - [Portal:History](https://en.wikipedia.org/wiki/Portal:History) | [主题：历史](https://zh.wikipedia.org/wiki/Portal:%E5%8E%86%E5%8F%B2)
 - [Portal:Modern history](https://en.wikipedia.org/wiki/Portal:Modern_history)
