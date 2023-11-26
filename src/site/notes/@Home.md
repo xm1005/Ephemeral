@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/@Home/","tags":["gardenEntry"]}
 ---
 
-<center><font size=5px>☾ 时·变 ☽</font></center>
+#### <center><font size=5px>☾ 时·变 ☽</font></center>
 
 思想无界。
 
@@ -18,4 +18,8 @@
 
 耗费心力搭建起的巨型堡垒也可能一朝尽数崩塌覆灭，日日修缮才是长久之道。
 
+#### <center><font size=5px>☾ 焰 ☽</font></center>
+物理世界与观念世界相撞。
+
+实体生产与意义创造共舞。
 
